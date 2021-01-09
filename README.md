@@ -5,7 +5,7 @@
 ## FB-CPU-RTL 💻
 
 
-## Hazırlayanlar
+## Hazırlayanlar ✍️
 Hasan Demir
 İlhan Ersoy
 Berk Tunç
