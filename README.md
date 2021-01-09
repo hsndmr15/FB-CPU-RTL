@@ -6,9 +6,9 @@
 
 
 ## Hazırlayanlar ✍️
-Hasan Demir
-İlhan Ersoy
-Berk Tunç
+Hasan Demir &
+İlhan Ersoy &
+Berk Tunç &
 Alp Yılmaz
 
 
