@@ -2,7 +2,7 @@
 
 
 
-## FB-CPU-RTL
+## FB-CPU-RTL 💻
 
 
 ## Hazırlayanlar
