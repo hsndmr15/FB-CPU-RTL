@@ -2,7 +2,7 @@
 
 
 
-## Simple TodoList with Vue
+## 
 
 ## Hazırlayanlar
 Hasan Demir
