@@ -4,7 +4,12 @@
 
 ## Simple TodoList with Vue
 
+## Hazırlayanlar
+Hasan Demir
+İlhan Ersoy
+Berk Tunç
+Alp Yılmaz
 
 
-## http://todolistvue.epizy.com/
+## http://www.levent.tc/courses/digital-design/projects-5
 
