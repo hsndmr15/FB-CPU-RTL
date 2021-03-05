@@ -6,11 +6,7 @@
 
 
 ## Hazırlayanlar ✍️
-Hasan Demir &
-İlhan Ersoy &
-Berk Tunç &
-Ogün Berat Gürses &
-Alp Yılmaz
+Hasan Demir
 
 
 ## http://www.levent.tc/courses/digital-design/projects-5
